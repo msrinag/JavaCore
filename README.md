@@ -25,6 +25,9 @@ All problems related to ArrayLists, LinkedLists, and Maps are implemented in **`
 - Finding the **second largest** element in a list  
 - Checking for **common elements** in two `HashSets`  
 - Converting a **HashMap** to a `TreeMap` and sorting it  
-- Counting character occurrences in a **String** using a `Map`  
+- Counting character occurrences in a **String** using a `Map`
+
+  Plz Note all questions are implemented as member fucntions.
+  Thank you
 
 
